@@ -1,0 +1,94 @@
+.navbar-container {
+    height: 75px;
+    width: 100%;
+
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.description-container{
+    height: 600px;
+    width: 100%;
+    margin-top: 5px;
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.project-container{
+    height: 400px;
+    width: 100%;
+    margin-top: 5px;
+
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.project-container .project-item{
+    width: 200px;
+    height: 200px;
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sa-container{
+    height: 500px;
+    width: 100%;
+    margin-top: 5px;
+
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.skill-container, .autobiography-container{
+    height: 500px;
+    width: 800px;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.skill-container > h2 , .autobiography-container > h2{
+    text-align: center;
+}
+
+.footer-container{
+    height: 250px;
+    width: 100%;
+    margin-top: 5px;
+
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
