@@ -4,7 +4,7 @@ https://kenalwyn.github.io/Exercise2-portfolio-website/
 
 Steps on creating a github page:
 1. Go to your repo
-2. Go to settings
+2. Go to settings then pages
 3. Link branch
 4. Deploy
 
